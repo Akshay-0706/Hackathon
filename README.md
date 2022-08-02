@@ -1,4 +1,4 @@
-# Stockers
+# Runtime Terror
 Hackathon application
 
 Team members:
